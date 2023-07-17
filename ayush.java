@@ -6,5 +6,6 @@ public class ayush {
         double si;
         si=(p*t*r)/100;
         System.out.println("The value of si="+si);
+        System.out.println("The value of si="+si);
     }
 }
